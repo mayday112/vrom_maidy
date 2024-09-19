@@ -254,6 +254,7 @@
       </div>
     </section>
 
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
     <script src="https://unpkg.com/vue@next/dist/vue.global.js"></script>
     <script>
       const {
